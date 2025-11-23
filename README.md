@@ -17,11 +17,8 @@
 
 ## 🌱 About Me
 
-💡 Web Dev beginner diving deep  
-🌐 Learning how the Internet actually works  
-📚 Studying networking, switches, routers, OSI layers  
-🧠 Also learning SEO because websites need traffic  
-🎯 Goal: Become a software engineer and build real projects  
+I’m a tech-focused creator who loves building things for the web and understanding how technology actually works under the hood. I enjoy breaking down complex systems, exploring how networks and the internet operate, and turning that knowledge into better real-world projects. I’m driven, curious, and always improving my skills one project at a time.
+ 
 
 ---
 
