@@ -54,7 +54,7 @@ I’m a tech-focused creator who loves building things for the web and understan
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/goyal.jiiiiii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/goyaljiiiiii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
