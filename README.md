@@ -55,8 +55,9 @@ I’m a tech-focused creator who loves building things for the web and understan
 
 <p align="left">
   <a href="https://github.com/goyaljiiiiii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="www.linkedin.com/in/nandini-goyal-59a832394"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+  <a href="[www.linkedin.com/in/nandini-goyal-59a832394](https://www.linkedin.com/in/goyaljiiiiii
+)"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://discord.com/goyaljiiiiii"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
