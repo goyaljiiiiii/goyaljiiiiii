@@ -7,7 +7,7 @@
 
 <!-- PROFILE STATS BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat" />
+  
   <img src="https://img.shields.io/badge/Focus-Frontend-blueviolet" />
   <img src="https://img.shields.io/badge/Role-Student-success" />
   <img src="https://img.shields.io/badge/Learning-Always-ff00ff" />
