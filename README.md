@@ -54,18 +54,13 @@ I’m a tech-focused creator who loves building things for the web and understan
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://github.com/goyal.jiiiiii"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
   <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-## 🎯 Fun Fact
-
-Every tech pro once started at “Hello World” — I’m building from there.
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=ff7bff&height=120&section=footer" />
