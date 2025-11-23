@@ -1,52 +1,75 @@
-<h1 align="center">Hi, I'm Nandini 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Web Dev & Networking Learner</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF6AF1&center=true&vCenter=true&width=850&lines=Hi+I'm+Nandini+👋;Aspiring+Software+Engineer+💻;Web+Dev+%7C+Networking+%7C+SEO;Always+Learning+and+Leveling+Up+🚀" />
+</p>
+
+---
+
+<!-- PROFILE STATS BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=ff69b4&style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-blueviolet" />
+  <img src="https://img.shields.io/badge/Role-Student-success" />
+  <img src="https://img.shields.io/badge/Learning-Always-ff00ff" />
+</p>
 
 ---
 
 ## 🌱 About Me
-- Currently learning Web Development (HTML, CSS, Git, GitHub)
-- Exploring fundamental Computer Networking & how the internet works
-- Learning SEO and how real websites scale, rank, and reach users
-- Working step-by-step toward becoming a professional software engineer
+
+💡 Web Dev beginner diving deep  
+🌐 Learning how the Internet actually works  
+📚 Studying networking, switches, routers, OSI layers  
+🧠 Also learning SEO because websites need traffic  
+🎯 Goal: Become a software engineer and build real projects  
 
 ---
 
-## 🚀 Tech Stack I'm Learning
+## ⚙️ Tech Stack
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" />
 </p>
-
-- Web Foundations (HTML & CSS)
-- Version Control with Git & GitHub
-- Networking basics (LAN, WAN, routers, switches, OSI layers)
-- SEO fundamentals
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
 <p align="left">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
 </p>
 
 ---
 
-## 🧠 What I'm Working Toward
-- Building real portfolio projects from scratch  
-- Understanding how websites move from "code" → "hosted" → "live on the internet"  
-- Growing into a confident, job-ready developer
+## 🎯 Fun Fact
+
+Every tech pro once started at “Hello World” — I’m building from there.
 
 ---
 
-## ⭐ Fun Fact
-Every big tech story starts from a small repo—and this one is mine.
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=ff7bff&height=120&section=footer" />
+</p>
