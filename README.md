@@ -55,9 +55,9 @@ Passionate and driven software developer focused on building clean, modern appli
   <a href="https://github.com/goyaljiiiiii" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="mailto:nandunandinigoyal@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-  </a>
+<a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
 </p>
 
 
@@ -68,7 +68,7 @@ Passionate and driven software developer focused on building clean, modern appli
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/BottomLine.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/main/svg/BottomLine.svg" width="100%" />
 </p>
 
 <p align="center">
