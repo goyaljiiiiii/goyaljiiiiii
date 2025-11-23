@@ -1,7 +1,8 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF6AF1&center=true&vCenter=true&width=850&lines=Hi+I'm+Nandini+👋;Aspiring+Software+Engineer+💻;Web+Dev+%7C+Networking+%7C+SEO;Always+Learning+and+Leveling+Up+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=FF6AF1&center=true&vCenter=true&width=850&lines=Nandini+Here+👋;Future+Software+Engineer+💻;Breaking+Into+Tech+My+Way+🔥;Watch+The+Journey+Unfold+🚀" />
 </p>
+
 
 ---
 
