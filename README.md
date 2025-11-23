@@ -46,7 +46,7 @@ I’m a tech-focused creator who loves building things for the web and understan
 ## 🚀 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=goyaljiiiiii&theme=tokyo-night" />
 </p>
 
 ---
