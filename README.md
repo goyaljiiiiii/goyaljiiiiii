@@ -96,6 +96,4 @@ Networking | Internet Fundamentals | SEO
   <img src="https://capsule-render.vercel.app/api?type=wave&color=ff7bff&height=130&section=footer" />
 </p>
 
-<p align="center">
-  ⭐ From Nandini — still leveling up but already dangerous.
-</p>
+
