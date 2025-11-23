@@ -55,10 +55,11 @@ Passionate and driven software developer focused on building clean, modern appli
   <a href="https://github.com/goyaljiiiiii" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-  <a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
+  <a href="mailto:nandunandinigoyal@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
   </a>
 </p>
+
 
 ---
 
