@@ -6,14 +6,13 @@
 ---
 
 ## 👩‍💻 About Me
-Passionate and driven software developer focused on building clean, modern applications. Always exploring new tools, tech, and ideas.
+Passionate and driven to be a software developer focused on building clean, modern applications. Always exploring new tools, tech, and ideas.
 
 ---
 
 ## 🎯 Goals
 - Become a skilled software developer  
 - Build real projects that solve problems  
-- Master modern web development  
 - Land a strong tech role and keep leveling up  
 
 ---
@@ -67,9 +66,7 @@ Passionate and driven software developer focused on building clean, modern appli
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/bornmay/bornmay/main/svg/BottomLine.svg" width="100%" />
-</p>
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
