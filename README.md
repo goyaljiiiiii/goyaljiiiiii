@@ -5,13 +5,19 @@
 
 ---
 
-<!-- About Me -->
 ## 👩‍💻 About Me
 Passionate and driven software developer focused on building clean, modern applications. Always exploring new tools, tech, and ideas.
 
 ---
 
-<!-- Tech Stack -->
+## 🎯 Goals
+- Become a skilled software developer  
+- Build real projects that solve problems  
+- Master modern web development  
+- Land a strong tech role and keep leveling up  
+
+---
+
 ## ⚙️ Tech Stack
 
 **Languages**
@@ -31,7 +37,6 @@ Passionate and driven software developer focused on building clean, modern appli
 
 ---
 
-<!-- Stats -->
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -41,35 +46,30 @@ Passionate and driven software developer focused on building clean, modern appli
 
 ---
 
-<!-- Animated Line -->
+## 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/BottomLine.svg" width="100%" />
+  <a href="https://www.linkedin.com/in/goyaljiiiiii/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  <a href="https://github.com/goyaljiiiiii" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  <a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
 </p>
 
 ---
 
-<!-- Contact -->
-## 📬 Contact
-
-📧 **Email:**  
-`nandunandinigoyal@gmail.com`
-
-🔗 **LinkedIn:**  
-linkedin.com/in/goyaljiiiiii
-
-🐙 **GitHub:**  
-github.com/goyaljiiiiii
-
----
-
-<!-- Quote -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/BottomLine.svg" width="100%" />
+</p>
 
-<!-- Footer GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
 </p>
