@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I'm Nandini 👋
 
-<!--
-**goyaljiiiiii/goyaljiiiiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 Learning web development and networking basics
+- 💻 Future software engineer
+- 🌐 Exploring Git, GitHub, HTML, CSS, and more
 
-Here are some ideas to get you started:
+## Skills
+- HTML / CSS (learning)
+- Git & GitHub
+- Networking basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals this year
+- Build 5 real-world projects
+- Get internship-ready
