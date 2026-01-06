@@ -36,11 +36,26 @@ Passionate and driven to be a software developer focused on building clean, mode
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Alternative)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=goyaljiiiiii&show_icons=true&theme=radical" alt="Nandini's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=goyaljiiiiii&theme=radical" alt="Nandini's GitHub Streak" />
+  <!-- Contributions chart -->
+  <img src="https://github.com/goyaljiiiiii.png?size=150" alt="Nandini's GitHub" width="150" style="border-radius:50%;">
+</p>
+
+<p align="center">
+  <!-- Total commits, repos, followers using shields.io -->
+  <img src="https://img.shields.io/github/commit-activity/m/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Commit Activity"/>
+  <img src="https://img.shields.io/github/forks/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Forks"/>
+  <img src="https://img.shields.io/github/stars/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Stars"/>
+  <img src="https://img.shields.io/github/watchers/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Watchers"/>
+  <img src="https://img.shields.io/github/issues/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Open Issues"/>
+  <img src="https://img.shields.io/github/followers/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Followers"/>
+</p>
+
+<p align="center">
+  <!-- Contribution graph -->
+  <img src="https://ghchart.rshah.org/9A4BFF/goyaljiiiiii" alt="GitHub Contributions Graph" width="100%" />
 </p>
 
 
