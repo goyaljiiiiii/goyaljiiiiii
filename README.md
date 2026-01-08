@@ -6,8 +6,9 @@
 
 ---
 
-## 👩‍💻 About Me
-Passionate and driven to be a software developer focused on building clean, modern applications. Always exploring new tools, tech, and ideas.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A4BFF&width=500&lines=const+Nandini+%3D+%7B;status%3A+'always+learning+🚀';skills%3A+['JS','Python','DSA'];vibe%3A+'building+stuff+that+kinda+works';%7D" />
+</p>
 
 ---
 
