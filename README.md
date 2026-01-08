@@ -5,7 +5,6 @@
 
 ---
 
-<!-- About Me + Meme Side by Side -->
 <!-- About Me + Meme side by side -->
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
@@ -15,7 +14,7 @@
   </div>
 
   <!-- About Me Code Block -->
-  <div>
+  <div style="max-width: 600px;">
     <pre>
 <code>const Nandini = {
   name: "Nandini",
@@ -28,7 +27,6 @@
   </div>
 
 </div>
-
 
 ---
 
