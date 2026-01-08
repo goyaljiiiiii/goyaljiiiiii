@@ -6,9 +6,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A4BFF&width=500&lines=const+Nandini+%3D+%7B;status%3A+'always+learning+🚀';skills%3A+['JS','Python','DSA'];vibe%3A+'building+stuff+that+kinda+works';%7D" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
 
 ---
 
