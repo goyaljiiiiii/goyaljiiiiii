@@ -6,9 +6,9 @@
 
 ---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A4BFF&width=500&lines=Aspiring+Software+Engineer;Building+Stuff;Always+Learning" />
+</p>
 
 
 ---
