@@ -6,7 +6,14 @@
 ---
 
 <!-- About Me + Meme side by side -->
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: <p align="center">
+📱 <a href="https://t.me/goyaljiiiiii">Telegram</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+🐱 <a href="https://github.com/goyaljiiiiii">GitHub</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+💼 <a href="https://www.linkedin.com/in/goyaljiiiiii/">LinkedIn</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+🐦 <a href="https://twitter.com/goyaljiiiiii">Twitter</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
+👽 <a href="https://www.reddit.com/user/goyaljiiiiii">Reddit</a>
+</p>
+flex; align-items: flex-start; gap: 20px;">
 
   <!-- Meme / GIF -->
   <div>
@@ -76,26 +83,28 @@
 </p>
 
 ---
-## 🌟 Connect With Me
+## 🚀 Let's connect and make the internet cooler
 
 <p align="center">
-  <a href="https://reddit.com/user/yourRedditUsername" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff&labelColor=FF8C00" alt="Reddit"/>
-  </a>
-  <a href="https://github.com/goyaljiiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=555" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/goyaljiiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=FF6B6B" alt="Mail"/>
-  </a>
-  <a href="https://t.me/goyaljiiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=fff&labelColor=00BFFF" alt="Telegram"/>
-  </a>
-  <a href="https://discord.gg/goyaljiiiiii" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff&labelColor=5B6EAE" alt="Discord"/>
-  </a>
-</p>
+  
+  <a href="https://t.me/goyaljiiiiii">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&size=40" alt="Telegram"/>
+  </a>&nbsp;&nbsp;
 
+  <a href="https://github.com/goyaljiiiiii">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=github&size=40" alt="GitHub"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/goyaljiiiiii/">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=linkedin&size=40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://twitter.com/goyaljiiiiii">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=40" alt="Twitter"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.reddit.com/user/goyaljiiiiii">
+    <img src="https://readmecodegen.vercel.app/api/social-icon?name=reddit&size=40" alt="Reddit"/>
+  </a>
+
+</p>
