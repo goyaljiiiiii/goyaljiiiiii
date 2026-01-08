@@ -5,10 +5,12 @@
 
 ---
 
-|  |  |
-|--|--|
+<!-- About Me + Meme Side by Side -->
+| Meme | About Me |
+|------|----------|
 | ![funny gif](https://camo.githubusercontent.com/6a9cbb2fe68862b054242d290ed3dbffea8ee762ba78cab334b288d96df7735d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78546b6345514143483234534d50784951672f67697068792e676966) | ```js
-```const Nandini = {
+```
+const Nandini = {
   name: "Nandini",
   currentFocus: "learning MERN stack & building cool projects",
   motto: "become a successful software developer and someday run an NGO for animals 🐾",
@@ -45,15 +47,13 @@
 
 ---
 
-## 📊 GitHub Stats (Alternative)
+## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Contributions chart -->
   <img src="https://github.com/goyaljiiiiii.png?size=150" alt="Nandini's GitHub" width="150" style="border-radius:50%;">
 </p>
 
 <p align="center">
-  <!-- Total commits, repos, followers using shields.io -->
   <img src="https://img.shields.io/github/commit-activity/m/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Commit Activity"/>
   <img src="https://img.shields.io/github/forks/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/goyaljiiiiii?style=for-the-badge&color=9A4BFF" alt="Stars"/>
@@ -63,10 +63,8 @@
 </p>
 
 <p align="center">
-  <!-- Contribution graph -->
   <img src="https://ghchart.rshah.org/9A4BFF/goyaljiiiiii" alt="GitHub Contributions Graph" width="100%" />
 </p>
-
 
 ---
 
@@ -79,20 +77,7 @@
   <a href="https://github.com/goyaljiiiiii" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="45"/>
   </a>
-<a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
+  <a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  </a>
 </p>
