@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.tenor.com/YjLpcdpr60QAAAAi/linhas-de-flores.gif" alt="Linhas de Flores" width="350"/>
+</p>
+
+
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=Aspiring+Software+Engineer;Learning+by+Building+Real+Projects;Always+Learning+%26+Building+💻" alt="Typing SVG" />
@@ -95,8 +100,6 @@
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=reddit&size=40" alt="Reddit"/>
 </a>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=FF69B4&width=500&lines=Let's+code+and+connect" alt="Wave"/>
-</p>
+<div class="tenor-gif-embed" data-postid="25629778" data-share-method="host" data-aspect-ratio="2.35294" data-width="100%"><a href="https://tenor.com/view/wave-aesthetic-gif-25629778">Wave Aesthetic GIF</a>from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
