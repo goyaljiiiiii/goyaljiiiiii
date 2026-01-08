@@ -1,9 +1,8 @@
 <!-- Banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=Hey,+I'm+Nandini!;Software+Developer+in+Progress;Always+Learning+%26+Building+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=Aspiring+Software+Engineer;Learning+by+Building+Real+Projects;Always+Learning+%26+Building+💻" alt="Typing SVG" />
 </p>
-<!-- Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20My%20Way%20Into%20Software%20Engineering&fontSize=42&fontAlignY=35" />
 
 ---
 
