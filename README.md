@@ -6,18 +6,13 @@
 
 ---
 
-💬 **About Me**  
-Hey! I’m Nandini — a software tinkerer who builds, breaks, and rebuilds stuff.  
-I survive on coffee ☕, curiosity 🧠, and the thrill of debugging 🐛.  
-
-⚡ **Motto**  
-If it compiles, ship it.  
-
-🎯 **Current Mission**  
-Learning, building, and leveling up one commit at a time.  
-
-🎉 **Fun Fact**  
-I once spent 2 hours debugging only to realize I forgot a semicolon ;D
+const Nandini = {
+  name: "Nandini",
+  currentFocus: "learning by building projects that actually work",
+  motto: "if it compiles, ship it",
+  quirks: ["debugs at 2AM", "adds unnecessary console.logs", "runs on coffee"],
+  funFact: "once spent 2 hours fixing a bug caused by a missing semicolon ;D"
+};
 
 
 ---
