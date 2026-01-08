@@ -75,7 +75,6 @@
 ---
 
 <p align="center">
-  
   <a href="https://t.me/goyaljiiiiii">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=telegram&size=40" alt="Telegram"/>
   </a>&nbsp;&nbsp;
@@ -95,6 +94,9 @@
  <a href="https://www.reddit.com/user/Pitiful_Push5980/">
   <img src="https://readmecodegen.vercel.app/api/social-icon?name=reddit&size=40" alt="Reddit"/>
 </a>
-
-
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=500&color=FF69B4&width=500&lines=Let's+code+and+connect" alt="Wave"/>
+</p>
+
+
