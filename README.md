@@ -1,7 +1,13 @@
 <p align="center">
-  <img src="https://media.tenor.com/UvedYyBekfoAAAAj/autumn-flower.gif" alt="Linhas de Flores Aesthetic" width="300"/>
-  <img src="https://media.tenor.com/UvedYyBekfoAAAAj/autumn-flower.gif" alt="Autumn Flower Aesthetic" width="300"/>
+  <img 
+    src="https://media.tenor.com/jqiSxUWN6_IAAAAi/lights.gif" 
+    alt="Aesthetic Lights" 
+    width="100%" 
+    style="max-width:1200px;"
+  />
 </p>
+
+
 
 <!-- Banner -->
 <p align="center">
