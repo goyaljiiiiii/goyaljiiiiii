@@ -73,7 +73,6 @@
 </p>
 
 ---
-## 🚀 Let's connect and make the internet cooler
 
 <p align="center">
   
