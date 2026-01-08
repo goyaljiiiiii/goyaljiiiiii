@@ -6,18 +6,29 @@
 ---
 
 <!-- About Me + Meme Side by Side -->
-| Meme | About Me |
-|------|----------|
-| ![funny gif](https://camo.githubusercontent.com/6a9cbb2fe68862b054242d290ed3dbffea8ee762ba78cab334b288d96df7735d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78546b6345514143483234534d50784951672f67697068792e676966) | ```js
-```
-const Nandini = {
+<!-- About Me + Meme side by side -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Meme / GIF -->
+  <div>
+    <img src="https://camo.githubusercontent.com/6a9cbb2fe68862b054242d290ed3dbffea8ee762ba78cab334b288d96df7735d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78546b6345514143483234534d50784951672f67697068792e676966" width="300" />
+  </div>
+
+  <!-- About Me Code Block -->
+  <div>
+    <pre>
+<code>const Nandini = {
   name: "Nandini",
   currentFocus: "learning MERN stack & building cool projects",
   motto: "become a successful software developer and someday run an NGO for animals 🐾",
   quirks: ["always curious", "wants to learn everything", "codes while humming tunes"],
   funFact: "once accidentally deleted the whole OS along with all my projects 😅"
-};
-``` |
+};</code>
+    </pre>
+  </div>
+
+</div>
+
 
 ---
 
