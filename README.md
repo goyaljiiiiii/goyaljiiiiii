@@ -5,16 +5,6 @@
 <!-- Capsule Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20My%20Way%20Into%20Software%20Engineering&fontSize=42&fontAlignY=35" />
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6FA4FC&width=520&lines=Aspiring+Software+Engineer;Learning+by+Building+Real+Projects;JavaScript+%7C+Python+%7C+DSA" />
-</p>
-
-<!-- One-line intro -->
-<p align="center">
-  I focus on fundamentals, consistency, and turning ideas into working code.
-</p>
-
 ---
 
 ## 👩‍💻 About Me
