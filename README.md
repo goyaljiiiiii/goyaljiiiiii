@@ -103,8 +103,9 @@ flex; align-items: flex-start; gap: 20px;">
     <img src="https://readmecodegen.vercel.app/api/social-icon?name=twitter&size=40" alt="Twitter"/>
   </a>&nbsp;&nbsp;
 
-  <a href="[https://www.reddit.com/user/goyaljiiiiii](https://www.reddit.com/user/Pitiful_Push5980/)">
-    <img src="https://readmecodegen.vercel.app/api/social-icon?name=reddit&size=40" alt="Reddit"/>
-  </a>
+ <a href="https://www.reddit.com/user/Pitiful_Push5980/">
+  <img src="https://readmecodegen.vercel.app/api/social-icon?name=reddit&size=40" alt="Reddit"/>
+</a>
+
 
 </p>
