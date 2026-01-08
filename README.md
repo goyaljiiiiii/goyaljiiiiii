@@ -5,14 +5,17 @@
 </p>
 
 ---
+js
 
+```
 const Nandini = {
   name: "Nandini",
-  currentFocus: "learning by building projects that actually work",
-  motto: "if it compiles, ship it",
-  quirks: ["debugs at 2AM", "adds unnecessary console.logs", "runs on coffee"],
-  funFact: "once spent 2 hours fixing a bug caused by a missing semicolon ;D"
+  currentFocus: "learning MERN stack & building cool projects",
+  motto: "become a successful software developer and someday run an NGO for animals 🐾",
+  quirks: ["always curious", "wants to learn everything", "codes while humming tunes"],
+  funFact: "once accidentally deleted the whole OS along with all my projects 😅"
 };
+```
 
 
 ---
