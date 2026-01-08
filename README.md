@@ -6,11 +6,18 @@
 
 ---
 
-| About Me | Details |
-|-----------|---------|
-| Status    | Always learning 🚀 |
-| Skills    | JS, Python, DSA |
-| Motto     | If it compiles, ship it |
+💬 **About Me**  
+Hey! I’m Nandini — a software tinkerer who builds, breaks, and rebuilds stuff.  
+I survive on coffee ☕, curiosity 🧠, and the thrill of debugging 🐛.  
+
+⚡ **Motto**  
+If it compiles, ship it.  
+
+🎯 **Current Mission**  
+Learning, building, and leveling up one commit at a time.  
+
+🎉 **Fun Fact**  
+I once spent 2 hours debugging only to realize I forgot a semicolon ;D
 
 
 ---
