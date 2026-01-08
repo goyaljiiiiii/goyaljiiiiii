@@ -5,16 +5,6 @@
 
 ---
 
-<!-- About Me + Meme side by side -->
-<div style="display: <p align="center">
-📱 <a href="https://t.me/goyaljiiiiii">Telegram</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-🐱 <a href="https://github.com/goyaljiiiiii">GitHub</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-💼 <a href="https://www.linkedin.com/in/goyaljiiiiii/">LinkedIn</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-🐦 <a href="https://twitter.com/goyaljiiiiii">Twitter</a> &nbsp;&nbsp; | &nbsp;&nbsp;  
-👽 <a href="https://www.reddit.com/user/goyaljiiiiii">Reddit</a>
-</p>
-flex; align-items: flex-start; gap: 20px;">
-
   <!-- Meme / GIF -->
   <div>
     <img src="https://camo.githubusercontent.com/6a9cbb2fe68862b054242d290ed3dbffea8ee762ba78cab334b288d96df7735d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78546b6345514143483234534d50784951672f67697068792e676966" width="300" />
