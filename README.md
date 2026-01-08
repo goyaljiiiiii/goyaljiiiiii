@@ -11,9 +11,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=Aspiring+Software+Engineer;Learning+by+Building+Real+Projects;Always+Learning+%26+Building+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=I+am+Nandini;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
-
 ---
 
   <!-- Meme / GIF -->
