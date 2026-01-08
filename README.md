@@ -6,9 +6,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9A4BFF&width=500&lines=Aspiring+Software+Engineer;Building+Stuff;Always+Learning" />
-</p>
+| About Me | Details |
+|-----------|---------|
+| Status    | Always learning 🚀 |
+| Skills    | JS, Python, DSA |
+| Motto     | If it compiles, ship it |
 
 
 ---
