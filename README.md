@@ -5,7 +5,6 @@
 </p>
 
 ---
-js
 
 ```
 const Nandini = {
