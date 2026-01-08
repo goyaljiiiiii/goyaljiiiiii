@@ -82,19 +82,19 @@
   <a href="https://reddit.com/user/yourRedditUsername" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=fff&labelColor=FF8C00" alt="Reddit"/>
   </a>
-  <a href="https://github.com/yourGitHubUsername" target="_blank">
+  <a href="https://github.com/goyaljiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff&labelColor=555" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/yourLinkedInUsername" target="_blank">
+  <a href="https://linkedin.com/in/goyaljiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=1a1a2e" alt="LinkedIn"/>
   </a>
   <a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=fff&labelColor=FF6B6B" alt="Mail"/>
   </a>
-  <a href="https://t.me/yourTelegramUsername" target="_blank">
+  <a href="https://t.me/goyaljiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=fff&labelColor=00BFFF" alt="Telegram"/>
   </a>
-  <a href="https://discord.gg/yourDiscordID" target="_blank">
+  <a href="https://discord.gg/goyaljiiiiii" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=fff&labelColor=5B6EAE" alt="Discord"/>
   </a>
 </p>
