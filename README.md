@@ -21,8 +21,10 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/aDUxPAkAm08AAAAi/purple.gif" alt="divider"/>
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" alt="rainbow border" />
 </p>
+
+---
 
 <table align="center" width="100%">
   <tr>
@@ -51,25 +53,84 @@ const nandini = {
   </tr>
 </table>
 
----
-
-## ⚙️ Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
-</p>
-
-**Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-**Backend & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,linux" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" alt="rainbow border" />
 </p>
 
 ---
+<p align="center">
+  <strong>⚙️ Tech Stack</strong>
+</p>
+<p align="center">
 
+<!-- Languages -->
+<strong>Languages</strong><br>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- Frontend -->
+<strong>Frontend</strong><br>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- Backend & Database -->
+<strong>Backend & Database</strong><br>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+
+<br><br>
+
+<!-- Tools & Platforms -->
+<strong>Tools & Platforms</strong><br>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/-sauCodHWLIAAAAC/rainbow-border.gif" alt="rainbow border" />
+</p>
+
+<!-- ENDING / SIGN‑OFF UPSIDE DOWN -->
+<p align="center">
+  <img src="https://media.tenor.com/dR8VeofA1RoAAAAm/sanrio-cute.webp" alt="cute sanrio" />
+</p>
 
