@@ -30,11 +30,18 @@
 
 <pre><code>// About Me
 const nandini = {
-  role: "MERN Developer (in progress)",
-  focus: ["JavaScript", "React", "Node.js", "MongoDB"],
-  mindset: "Learning by building",
-  goal: "Become a solid software developer",
-  status: "Grinding daily 🚀"
+  startedGitHub: "2021-22-ish, clueless but curious",
+  education: {
+  BCA: IGNOU(24-27),
+  MDCE: IICS(24-27),
+  },
+  quirks: [
+    "Obsessed with learning weird tech stuff",
+    "Spends hours breaking and fixing code",
+    "Sleepless curiosity is a lifestyle"
+  ],
+  motto: "Become a software developer",
+  vision: "Turn code into impact, start an NGO someday",
 };
 </code></pre>
   </td>
