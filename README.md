@@ -20,18 +20,29 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.tenor.com/aDUxPAkAm08AAAAi/purple.gif" alt="divider"/>
+</p>
 
----
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
 
-## 👩‍💻 About Me
-Passionate and driven to be a software developer focused on building clean, modern applications. Always exploring new tools, tech, and ideas.
-
----
-
-## 🎯 Goals
-- Become a skilled software developer  
-- Build real projects that solve problems  
-- Land a strong tech role and keep leveling up  
+<pre><code>// About Me
+const nandini = {
+  role: "MERN Developer (in progress)",
+  focus: ["JavaScript", "React", "Node.js", "MongoDB"],
+  mindset: "Learning by building",
+  goal: "Become a solid software developer",
+  status: "Grinding daily 🚀"
+};
+</code></pre>
+  </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -54,33 +65,4 @@ Passionate and driven to be a software developer focused on building clean, mode
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=goyaljiiiiii&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=goyaljiiiiii&theme=radical" />](https://github-readme-stats.vercel.app/api?username=goyaljiiiiii&show_icons=true&theme=radical
-https://github-readme-streak-stats.herokuapp.com/?user=goyaljiiiiii&theme=radical>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/goyaljiiiiii/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-  </a>
-  <a href="https://github.com/goyaljiiiiii" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
-  </a>
-<a href="mailto:nandunandinigoyal@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-</p>
- 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xTkcEQACH24SMPxIQg/giphy.gif" width="300" />
-</p>
