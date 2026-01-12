@@ -1,5 +1,5 @@
 <!-- OPENING -->
-![MERN Dev on the Way](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4b0082,100:6a5acd&text=MERN%20Dev%20on%20the%20Way&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+![Software Dev on the Way](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4b0082,100:6a5acd&text=MERN%20Dev%20on%20the%20Way&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=9A4BFF&width=500&lines=Hey,+I'm+Nandini!;Software+Developer+in+Progress;Always+Learning+%26+Building+💻" alt="Typing SVG" />
