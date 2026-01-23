@@ -102,8 +102,15 @@ const nandini = {
 <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
 
 <br><br>
+
 
 <!-- Tools & Platforms -->
 <strong>Tools & Platforms</strong><br>
